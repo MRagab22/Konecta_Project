@@ -101,10 +101,10 @@ src/test/java/utils/reports/UI_test_report.html
 **Sherif**  
 [GitHub Profile](https://github.com/Sherriif) 
 
-**Mohamed**  
-[GitHub Profile](https://github.com/MOHAMEDRAGEB2020) 
+**Mohamed Ali**  
+[GitHub Profile](https://github.com/MRagab22) 
 
-**Omar**  
+**Omar**   
 [GitHub Profile](https://github.com/omargamal1997) 
 
 **Joman**  
